@@ -1,4 +1,4 @@
-# INFOMR-2022
+# 3d shape retrieval
 
 Main dependencies:
 - trimesh
